@@ -1,4 +1,4 @@
-# Nadun# 💫 About Me:
+ 💫 About Me:
 <br>1  I'm currently working on content creation<br>2 I'm looking to collaborate on software testing-related content creatid<br>3 I'm looking for help with developing a chrome extension that can find <br>4 I'm currently learning chrome extension manifest v3 & flutter<br>5  Fun fact - I am lazy but smart<br><br><br>
 
 
@@ -11,18 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Nadun Daneera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nadun Daneera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadun Daneera&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@daneera_nadun)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Nadun Daneera&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nadun) 
